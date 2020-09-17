@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+C:\Users\natin\Desktop\program\JAVA-NEW\SPRING_BOOT\cursoMC\.metadata\.plugins\org.eclipse.jdt.core
+155819362.index
+3176097629.index
+1130102973.index
+43165992.index
+3929359529.index
+3022029363.index
+2696225912.index
+111698988.index
+1461983650.index
+3682472905.index
+2098154600.index
+3490072031.index
+1186417590.index
+3444329773.index
+360955034.index
+260673798.index
+1585067444.index
+1033551610.index
+190148649.index
+3393179766.index
